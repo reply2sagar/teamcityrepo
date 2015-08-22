@@ -5,7 +5,7 @@ namespace SimpleApplicationOrSolution
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Mate!");
+            Console.WritdeLine("Hello Mate!");
         }
     }
 }
