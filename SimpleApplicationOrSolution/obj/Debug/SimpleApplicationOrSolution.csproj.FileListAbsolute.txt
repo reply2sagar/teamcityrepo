@@ -1,0 +1,5 @@
+F:\books\c#\SimpleApplicationOrSolution\SimpleApplicationOrSolution\bin\Debug\SimpleApplicationOrSolution.exe.config
+F:\books\c#\SimpleApplicationOrSolution\SimpleApplicationOrSolution\bin\Debug\SimpleApplicationOrSolution.exe
+F:\books\c#\SimpleApplicationOrSolution\SimpleApplicationOrSolution\bin\Debug\SimpleApplicationOrSolution.pdb
+F:\books\c#\SimpleApplicationOrSolution\SimpleApplicationOrSolution\obj\Debug\SimpleApplicationOrSolution.exe
+F:\books\c#\SimpleApplicationOrSolution\SimpleApplicationOrSolution\obj\Debug\SimpleApplicationOrSolution.pdb
